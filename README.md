@@ -11,6 +11,10 @@ Collection of the different Streamlit Apps made
   *   📦 [App Link](https://visitorconversion.streamlit.app/)
   *   :octocat:[Github Link](https://github.com/vkoul/st_conversion_app)
 
+* **Voice Classification**
+  *   📦 [App Link](https://voice-classification.streamlit.app/)
+  *   :octocat:[Github Link](https://github.com/vkoul/st_voice_classification)
+
 
 * **t and z distribution**
   *   📦 [App Link](https://tandzdistribution.streamlit.app/)
@@ -19,6 +23,16 @@ Collection of the different Streamlit Apps made
 * **Stats Magic**
   *   📦 [App Link](https://statsmagic.streamlit.app/)
   *   :octocat:[Github Link](https://github.com/vkoul/st_stats_magic)
+
+## To be updated 
+
+* **Linear Relationship- TBU**
+  *   📦 [App Link](https://linear-relationship-check.streamlit.app/)
+  *   :octocat:[Github Link](https://github.com/vkoul/st_linear_relationship)
+
+* **Mushroom Classification- TBU**
+  *   📦 [App Link](https://vkoul-st-test-app-acn6jv.streamlit.app/)
+  *   :octocat:[Github Link](https://github.com/vkoul/st_test)
 
 
 * **Song Recommend- TBU**
