@@ -1,4 +1,4 @@
-# StreamlitApps
+# [✨Streamlit Apps](https://streamlit.io/)
 
 Collection of the different Streamlit Apps made
 
