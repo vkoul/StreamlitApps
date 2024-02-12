@@ -11,6 +11,11 @@ Collection of the different Streamlit Apps made
   *   📦 [App Link](https://visitorconversion.streamlit.app/)
   *   :octocat:[Github Link](https://github.com/vkoul/st_conversion_app)
 
+* **Song Recommender**
+  *   📦 [App Link](https://spotifysongrecommender.streamlit.app/)
+  *   :octocat:[Github Link](https://github.com/vkoul/song_recommender/tree/main)
+
+
 * **Voice Classification**
   *   📦 [App Link](https://voice-classification.streamlit.app/)
   *   :octocat:[Github Link](https://github.com/vkoul/st_voice_classification)
