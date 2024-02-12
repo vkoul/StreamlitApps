@@ -2,30 +2,28 @@
 
 Collection of the different Streamlit Apps made
 
-* **Sales Prediction**
+* **Sales Prediction: 💼📈💰**
   *   📦 [App Link](https://salesprediction.streamlit.app/)
   *   :octocat:[Github Link](https://github.com/vkoul/st_sales_prediction)
 
-
-* **Website Visitor Conversion**
+* **Website Visitor Conversion: 🖥️📈👥**
   *   📦 [App Link](https://visitorconversion.streamlit.app/)
   *   :octocat:[Github Link](https://github.com/vkoul/st_conversion_app)
 
-* **Song Recommender**
+* **Song Recommender: 🎵🎶**
   *   📦 [App Link](https://spotifysongrecommender.streamlit.app/)
   *   :octocat:[Github Link](https://github.com/vkoul/song_recommender/tree/main)
 
-
-* **Voice Classification**
+* **Voice Classification: 🗣️🎤**
   *   📦 [App Link](https://voice-classification.streamlit.app/)
   *   :octocat:[Github Link](https://github.com/vkoul/st_voice_classification)
 
 
-* **t and z distribution**
+* **t and z Distribution: 📊📈**
   *   📦 [App Link](https://tandzdistribution.streamlit.app/)
   *   :octocat:[Github Link](https://github.com/vkoul/st_tandz_distribution)
 
-* **Stats Magic**
+* **Stats Magic: 📊🎩**
   *   📦 [App Link](https://statsmagic.streamlit.app/)
   *   :octocat:[Github Link](https://github.com/vkoul/st_stats_magic)
 
